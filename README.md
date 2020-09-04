@@ -11,3 +11,6 @@
 ![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi5143&show_icons=true&theme=radical&count_private=true)
 
 ![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=nrchandan&show_icons=true&theme=radical&count_private=true)
+
+---
+Thanks to [Anurag Hazra](https://github.com/anuraghazra) for the [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) tool.
