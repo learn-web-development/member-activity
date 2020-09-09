@@ -1,6 +1,6 @@
 # member-activity
 
-![Komal's github stats](https://github-readme-stats.vercel.app/api?username=komal7292&show_icons=true&theme=radical&count_private=true)
+![Komal's github stats](https://github-readme-stats.vercel.app/api?username=komal7292&show_icons=true&theme=radical&count_private=false)
 
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohit7065&show_icons=true&theme=radical&count_private=true)
 
