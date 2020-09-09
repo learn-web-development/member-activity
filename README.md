@@ -8,7 +8,7 @@
 
 ![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukesh545350&show_icons=true&theme=radical&count_private=true)
 
-![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi5143&show_icons=true&theme=radical&count_private=true)
+![Sakshi's github stats](https://github-readme-stats.vercel.app/api?username=sakshi5143&show_icons=false&theme=radical&count_private=true)
 
 ![Chandan's github stats](https://github-readme-stats.vercel.app/api?username=nrchandan&show_icons=true&theme=chartreuse-dark&count_private=true)
 
