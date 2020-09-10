@@ -2,7 +2,7 @@
 
 ![Komal's github stats](https://github-readme-stats.vercel.app/api?username=komal7292&show_icons=true&theme=radical&count_private=true)
 
-![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohit7065&show_icons=true&theme=radical&count_private=true)
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=Rohit7065&show_icons=true&theme=great-gatsby&count_private=true)
 
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetan2088&show_icons=true&theme=radical&count_private=true)
 
